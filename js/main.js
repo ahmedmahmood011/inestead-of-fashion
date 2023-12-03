@@ -2,7 +2,7 @@
 let index = 0;
 function Typing() {
     let p = document.querySelector(".landing-page .text-welcome p");
-    let char = ["اهلا بكم في Insed Of Fashion" ,"هنا هتلاقي", "افضل الاسعار", "اجود المنتجات", "سرعة توصيل" ,"هتشتري و انت مطمن", "تسوق سعيد (:"];
+    let char = ["اهلا بكم في Instead Of Fashion" ,"هنا هتلاقي", "افضل الاسعار", "اجود المنتجات", "سرعة توصيل" ,"هتشتري و انت مطمن", "تسوق سعيد (:"];
     let duration = 100;
     let charNum = 0;
     // add Char In pragraph
